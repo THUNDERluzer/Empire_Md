@@ -53,7 +53,7 @@
 /*
 let "USER_IMAGES" = {
       "description": "Put IMAGES/VIDEOS URL, Make Sure Url have extention like .mp4,.jpg,.png etc",
-      "value": "https://files.catbox.moe/6ntq2i.jpg",
+      "value": "https://telegra.ph/file/7721cf222f9790f3fcd1b.jpg",
       "required" :false
     },
 */
